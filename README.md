@@ -1,4 +1,4 @@
-# emergence_complexity_toolbox
+# Emergence & Complexity Toolbox
 
 This will be the repository for a Python library that allows to call and apply several measures of emergence and complexity to either empirical or simulated time-series data, and provide guidance for comparisons among and conclusions about different measures. 
 
